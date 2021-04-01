@@ -9,14 +9,14 @@ Mostly, I develop my projects in English. In some projects, I'll be taking notes
 
 ### Languages and Tools:
 
-[<img align="left" alt="HTML5" width="26px" src="html5.png" />][webdevplaylist]
-[<img align="left" alt="CSS3" width="26px" src="css3.png" />][cssplaylist]
-[<img align="left" alt="Sass" width="26px" src="sass.png" />][cssplaylist]
-[<img align="left" alt="JavaScript" width="26px" src="javascript.png" />][jsplaylist]
-[<img align="left" alt="React" width="26px" src="react.png" />][reactplaylist]
-[<img align="left" alt="SQL" width="26px" src="sql.png" />][webdevplaylist]
-[<img align="left" alt="Python" width="26px" src="python.png" />][webdevplaylist]
-[<img align="left" alt="Machine-Learnin" width="26px" src="machine-learning.png" />][webdevplaylist]
+[<img align="left" alt="HTML5" width="26px" src="html5.png" />]
+[<img align="left" alt="CSS3" width="26px" src="css3.png" />]
+[<img align="left" alt="Sass" width="26px" src="sass.png" />]
+[<img align="left" alt="JavaScript" width="26px" src="javascript.png" />]
+[<img align="left" alt="React" width="26px" src="react.png" />]
+[<img align="left" alt="SQL" width="26px" src="sql.png" />]
+[<img align="left" alt="Python" width="26px" src="python.png" />]
+[<img align="left" alt="Machine-Learnin" width="26px" src="machine-learning.png" />]
 
 
 
