@@ -1,5 +1,6 @@
+<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
 <br />
-### Hi there!
+###Hi there!
 
 I'm Sefa. You will find Machine Learning and Frontend projects on this profile. I'm full time Jr. Frontend Developer. Actually Junior of Junior. 🙂 I try to check and create Machine Learning projects in my free time.
 
