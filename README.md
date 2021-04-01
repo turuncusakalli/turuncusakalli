@@ -6,7 +6,7 @@ Mostly, I develop my projects in English. In some projects, I'll be taking notes
 
 <br />
 
-### Languages and Tools That I Use:
+## Languages and Tools That I Use:
 
 <img align="left" alt="HTML5" width="26px" src="html5.png" />
 <img align="left" alt="CSS3" width="26px" src="css3.png" />
@@ -15,6 +15,6 @@ Mostly, I develop my projects in English. In some projects, I'll be taking notes
 <img align="left" alt="React" width="26px" src="react.png" />
 <img align="left" alt="SQL" width="26px" src="sql.png" />
 <img align="left" alt="Python" width="26px" src="python.png" />
-<img align="left" alt="Machine-Learnin" width="26px" src="machine-learning.png" />
+<img align="left" alt="Machine-Learning" width="26px" src="machine-learning.png" />
 
 <br />
